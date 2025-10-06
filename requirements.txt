@@ -1,0 +1,16 @@
+pdfplumber
+pytesseract
+pillow
+python-docx
+sentence-transformers
+groq
+requests
+torch
+python-dotenv
+numpy
+fpdf
+spacy
+matplotlib
+matplotlib-venn
+streamlit
+pandas

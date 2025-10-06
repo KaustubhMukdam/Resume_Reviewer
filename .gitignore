@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+*.env
+*.DS_Store
+
+# Streamlit & Web
+.streamlit/
+
+# Data/Outputs
+outputs/
+*.csv
+*.xlsx
+*.pdf
+*.html
+*.png
+*.jpg
+*.jpeg
+
+# IDE & miscellaneous
+.idea/
+*.log
+*.swp
+*.swo
+.vscode/
+*.bak
+
+# Test Files
+test_*
+tests/
+*.pytest_cache/
+.coverage
+
+# Jupyter/IPython Notebooks
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+desktop.ini

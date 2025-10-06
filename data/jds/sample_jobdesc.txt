@@ -1,0 +1,23 @@
+Job Title: AI/ML Engineer
+
+Company Overview:
+Innovative, fast-growing company specializing in artificial intelligence solutions for enterprise clients.
+
+Key Responsibilities:
+- Design, build, and deploy machine learning and deep learning models for real-world applications.
+- Collaborate with cross-functional teams to define, design, and ship new AI-powered features.
+- Research, prototype, and productionize advanced ML algorithms.
+- Continuously improve model performance using MLOps best practices.
+- Communicate technical concepts clearly to both technical and non-technical stakeholders.
+
+=== SKILLS ===
+Strong understanding of machine learning fundamentals, deep learning, Python, TensorFlow, PyTorch, cloud deployment, data preprocessing...
+
+=== EDUCATION ===
+Bachelor's or Master's in Computer Science, Engineering, or related...
+
+=== PROJECT EXPERIENCE ===
+Designed and deployed ML models, integrated AI features, handled large datasets...
+
+=== EXPERIENCE ===
+2+ years in ML/AI industry or research...

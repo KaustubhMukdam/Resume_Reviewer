@@ -1,0 +1,40 @@
+=== CONTACT ===
+Name: Ananya Sharma
+Email: ananya.sharma@email.com
+Phone: +91-9812345678
+Location: Bengaluru, India
+
+=== EDUCATION ===
+B.Tech in Computer Science, Indian Institute of Technology Bombay (2020-2024)
+CGPA: 9.17
+Relevant Coursework: Machine Learning, Data Structures, Deep Learning, NLP
+
+=== SKILLS ===
+Python, Java, SQL, TensorFlow, PyTorch, NumPy, Pandas, Git, AWS, Docker, OpenCV, REST APIs
+
+=== PROJECT EXPERIENCE ===
+Financial Time Series Prediction using LSTM
+- Built and deployed an LSTM-based model for stock market price prediction.
+- Integrated model with a Flask API and deployed on AWS EC2.
+- Achieved MAPE of 3.7% on test set.
+
+Medical Image Diagnosis Automation
+- Implemented CNN models for tumor segmentation and disease classification, using PyTorch.
+- Enabled real-time inference on hospital images, improving diagnostic speed by 40%.
+
+Chatbot for Student Assistance
+- Developed an intelligent chatbot using Hugging Face Transformers for university FAQ automation.
+- Integrated with web portal, answering over 70% student queries automatically.
+
+=== EXPERIENCE ===
+Data Science Intern, Flipkart (May 2023–July 2023)
+- Built ETL pipeline for customer behavioral analytics.
+- Automated feature engineering for personalized product ranking.
+
+=== CERTIFICATES ===
+Udacity Deep Learning Nanodegree
+AWS Certified Machine Learning – Specialty
+Coursera: Natural Language Processing with Classification and Vector Spaces
+
+=== ABOUT ME ===
+Curious engineer passionate about building AI-powered solutions to modern challenges. Enjoy collaborating, learning new tech, and contributing to impactful open-source projects.
